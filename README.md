@@ -11,8 +11,10 @@ To predict the score of a student based on # of hours studied Used Linear regres
  
 Task : From the given 'IRIS' dataset predict the optimal number of clusters and represents it visually.
 
-# Task 3 : As a business manager try to find out the weak areas where you can work to make more profit. Perform Exploratory Data Analysis on dataset "Superstore".
+# Task 3 : Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore
+As a business manager try to find out the weak areas where you can work to make more profit. Perform Exploratory Data Analysis on dataset "Superstore".
 Dataset : https://bit.ly/3i4rbWl
 
-# Task 4 :  As a security/defense analyst, try to find out the hot zone of terrorism  on dataset of "Global Terrorism".
+# Task 4 : Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism
+As a security/defense analyst, try to find out the hot zone of terrorism  on dataset of "Global Terrorism".
 Dataset : https://bit.ly/2TK5Xn5
